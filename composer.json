@@ -1,0 +1,15 @@
+{
+    "name": "webxcel/php-framework",
+    "autoload": {
+        "psr-4": {
+            "Webxcel\\PhpFramework\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dylan Beurskens",
+            "email": "info@webxcel.nl"
+        }
+    ],
+    "require": {}
+}
